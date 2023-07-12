@@ -1,7 +1,6 @@
 {
   "name": "ejs-challenge",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,14 @@
     "lodash": "^4.17.21",
     "mongoose": "^5.13.19",
     "nodemon": "^2.0.22"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivamchaubey14/Daily-Journal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shivamchaubey14/Daily-Journal/issues"
+  },
+  "homepage": "https://github.com/Shivamchaubey14/Daily-Journal#readme",
+  "description": ""
 }
